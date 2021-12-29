@@ -2,6 +2,9 @@
 A simple implementation of the SL-SP algorithm for MRF reconstruction:
 
 **”High-quality MR Fingerprinting Reconstruction using Structured Low-rank Matrix Completion and Subspace Projection“**
+# References
+* [1] Hu Y, Li P, Chen H, et al. High-quality MR Fingerprinting Reconstruction using Structured Low-rank Matrix Completion and Subspace Projection[J]. IEEE Transactions on Medical Imaging, 2021.
+* [2] Li P, Hu Y. Mr Fingerprinting Reconstruction Using Structured Low-Rank Matrix Recovery And Subspace Modeling[C]//2021 IEEE 18th International Symposium on Biomedical Imaging (ISBI). IEEE, 2021: 1214-1217.
 # Start
 To run the simulation open: **"main.m"** in Matlab and press Run button.
 # Code Ref
