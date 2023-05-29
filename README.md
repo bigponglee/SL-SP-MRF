@@ -11,8 +11,7 @@ To run the simulation open: **"main.m"** in Matlab and press Run button.
 Some of the codes are taken from
 1. Paper：“Low-rank magnetic resonance fingerprinting”
 http://webee.techni-on.ac.il/Sites/People/YoninaEldar/software_det18.php
-
-new page：https://www.weizmann.ac.il/math/yonina/software-hardware/software/flor-magnetic-resonance-fingerprinting-low-rank
+- new page：https://www.weizmann.ac.il/math/yonina/software-hardware/software/flor-magnetic-resonance-fingerprinting-low-rank
 2. Paper：“A Fast Algorithm for Convolutional Structured Low-Rank Matrix Recovery”
 https://github.com/cbig-iowa/giraf
 3. Brian Hargreaves webpage: 
